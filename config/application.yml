@@ -1,0 +1,19 @@
+server:
+  port:8080
+datasource:
+  driverName: mysql
+  hostname: 127.0.0.1
+  port: 3306
+  database: TEST
+  username: root
+  password: root
+  charset: utf8
+emailCode:
+  diverName: mysql
+  host: 127.0.0.1
+  port: 3306
+  database: TEST
+  username: root
+  password: root
+  charset: utf8
+  smtpPassword: example
